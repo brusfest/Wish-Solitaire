@@ -1,4 +1,4 @@
-# Wish-Solitaire
+# Wish Solitaire
 The card game Wish Solitaire in Python.
 
 32 cards, divided into 8 smaller decks. 2-6 are removed beforehand.
