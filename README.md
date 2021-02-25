@@ -23,4 +23,17 @@ H: ♥ 12 ? ? ?
 "save" to save state to file
 "back" to go back to menu
 Choose cards you want to remove (e.g. CF): EG
+
+A: ♥ 14 ? ? ? 
+B: ♦ 8  ? ? ? 
+C: ♦ 13 ? ? ? 
+D: ♦ 12 ? ? ? 
+E: ♠ 9  ? ?  
+F: ♣ 9  ? ? ? 
+G: ♣ 11 ? ?  
+H: ♥ 12 ? ? ? 
+
+"save" to save state to file
+"back" to go back to menu
+Choose cards you want to remove (e.g. CF): 
 ```
